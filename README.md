@@ -2,4 +2,4 @@
 
 
 A Javascript generator for popular quotes.
-<a href="https://jmeboji.github.io/Famous-Quote-Generator/">Famous Quote Generator</a>
+<a href="https://jmeboji.github.io/Popular-Quote-Generator/">Famous Quote Generator</a>
