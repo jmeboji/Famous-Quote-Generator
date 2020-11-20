@@ -1,4 +1,4 @@
-# Famous-Quote-Generator
+# Popular-Quote-Generator
 
 
 A quote generator for popular quotes.
