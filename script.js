@@ -54,13 +54,13 @@ async function getQuote() {
         
 } 
 }
-function tweetQuote() {
+function tweetCode() {
 
 const twitterUrl = `https://twitter.com/intent/tweet?text=${quote} - ${author}`;
 window.open(twitterUrl, '_blank');
 }
 //Event listners
 newQuoteBtn.addEventListener('click', getQuote);
-twitterBtn.addEventListener('click', tweetQuote);
+twitterBtn.addEventListener('click', tweetCode);
 //On Load
 getQuote();
